@@ -23,6 +23,7 @@ Frontend (when needed)
 React · Next.js · Tailwind CSS
 
 🚀 Projects
+
 🚶 Pedestrian Detection
 
 Computer vision system for detecting pedestrians in images and video streams.
