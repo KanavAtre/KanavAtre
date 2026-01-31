@@ -1,46 +1,46 @@
-👋 Hi, I’m Kanav
+Hi, I’m Kanav
 
-I’m a software engineering–oriented data science student who enjoys building systems from the ground up. I’m especially interested in backend engineering, data-intensive systems, and tools that sit at the intersection of software, data, and real-world impact.
+I’m a software engineering–oriented Data Science student who enjoys building systems from the ground up. I’m especially interested in Backend Engineering, Data-Intensive Systems, and tools that sit at the intersection of Software, Data, and Real-World Impact.
 
-I like understanding how things actually work — from databases and distributed systems to APIs and infrastructure — and then building clean, reliable solutions on top of them.
+I like understanding how things actually work — from Databases and Distributed Systems to APIs and Infrastructure — and then building clean, reliable solutions on top of them.
 
-🛠️ Tech I Like Working With
-
+Tech I Like Working With
 Languages
 
 Python, Java, JavaScript / TypeScript
 
-SQL (PostgreSQL, Clickhouse, Neon), MongoDB
+SQL (PostgreSQL, ClickHouse, Neon), MongoDB
 
 Backend & Systems
 
 Node.js, Express, Django
 
-REST APIs, authentication, background jobs
+REST APIs, Authentication, Background Jobs
 
-Database internals, query processing, storage concepts
+Database Internals, Query Processing, Storage Concepts
 
-Tools & Infra
+Tools & Infrastructure
 
-Docker, AWS, Azure fundamentals
+Docker
 
-Data pipelines, analytics, performance tuning
+AWS and Azure (Fundamentals)
 
-Frontend (when needed)
+Data Pipelines, Analytics, Performance Tuning
+
+Frontend (When Needed)
 
 React, Next.js, Tailwind CSS
 
-🚀 Highlight Projects
+Highlight Projects
+Pedestrian Detection
 
-- Pedestrian Detection
+Computer Vision project focused on detecting pedestrians in images and video streams using modern ML techniques. Worked on preprocessing pipelines, model evaluation, and accuracy-vs-performance tradeoffs.
 
-Computer vision project focused on detecting pedestrians in images/video streams using modern ML techniques. Worked on preprocessing pipelines, model evaluation, and performance tradeoffs between accuracy and speed.
- 
-- Citation Generator
+Citation Generator
 
-A full-stack NLP tool to automate citation generation from user-provided sources. Built with a focus on correctness, clean UX, and extensibility across citation formats.
+A full-stack NLP-powered tool that automates citation generation from user-provided sources. Built with an emphasis on correctness, clean UX, and extensibility across citation formats.
 
-- Credify.ai
+Credify.ai
 
 A Chrome extension that fact-checks Reddit posts in real time.
 
@@ -48,18 +48,18 @@ Injects UI directly into the Reddit DOM
 
 Generates credibility scores and evidence-backed summaries
 
-Built with a strong emphasis on product usability and responsible AI
+Built with a strong focus on product usability and responsible AI
 
-⚙️ What I’ve Been Working On Recently
+What I’ve Been Working On Recently
 
-I’ve been deep in systems-level Java development, building core components of a lightweight relational database engine from scratch. This includes:
+I’ve been deep in systems-level Java development, building core components of a lightweight relational database engine from scratch, including:
 
-SQL parsing and execution
+SQL Parsing and Execution
 
-Query planning and operators
+Query Planning and Operators
 
-Storage and indexing concepts
+Storage and Indexing Concepts
 
 End-to-end execution of queries in a single-user DBMS
 
-It’s been a great way to sharpen my understanding of databases, performance, and low-level system design.
+This work has significantly sharpened my understanding of Databases, Performance, and Low-Level System Design.
