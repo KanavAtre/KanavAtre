@@ -1,65 +1,62 @@
-Hi, I’m Kanav
+👋 Hi, I’m Kanav
 
-I’m a software engineering–oriented Data Science student who enjoys building systems from the ground up. I’m especially interested in Backend Engineering, Data-Intensive Systems, and tools that sit at the intersection of Software, Data, and Real-World Impact.
+I’m a software engineering–oriented Data Science student who enjoys building systems from the ground up.
+My interests lie in Backend Engineering, Databases, and Data-Intensive Systems with real-world impact.
 
-I like understanding how things actually work — from Databases and Distributed Systems to APIs and Infrastructure — and then building clean, reliable solutions on top of them.
+I care about understanding how systems work internally — then building clean, reliable software on top of them.
 
-Tech I Like Working With
+🛠️ Tech Stack
+
 Languages
-
-Python, Java, JavaScript / TypeScript
-
-SQL (PostgreSQL, ClickHouse, Neon), MongoDB
+Python · Java · JavaScript / TypeScript · SQL · MongoDB
 
 Backend & Systems
+Node.js · Express · Django · REST APIs · Auth · Background Jobs
 
-Node.js, Express, Django
+Databases & Data
+PostgreSQL · ClickHouse · Neon · Query Processing · Storage Concepts
 
-REST APIs, Authentication, Background Jobs
+Tools & Infra
+Docker · AWS · Azure · Data Pipelines · Performance Tuning
 
-Database Internals, Query Processing, Storage Concepts
+Frontend (when needed)
+React · Next.js · Tailwind CSS
 
-Tools & Infrastructure
+🚀 Projects
+🚶 Pedestrian Detection
 
-Docker
+Computer vision system for detecting pedestrians in images and video streams.
+Focused on preprocessing pipelines, model evaluation, and accuracy–performance tradeoffs.
 
-AWS and Azure (Fundamentals)
+📚 Citation Generator
 
-Data Pipelines, Analytics, Performance Tuning
+Full-stack NLP-powered tool that automates citation generation from user-provided sources.
+Built for correctness, clean UX, and extensibility across citation formats.
 
-Frontend (When Needed)
+🧠 Credify.ai
 
-React, Next.js, Tailwind CSS
+Chrome extension that fact-checks Reddit posts in real time.
 
-Highlight Projects
-Pedestrian Detection
+UI injected directly into the Reddit DOM
 
-Computer Vision project focused on detecting pedestrians in images and video streams using modern ML techniques. Worked on preprocessing pipelines, model evaluation, and accuracy-vs-performance tradeoffs.
+Credibility scores with evidence-backed summaries
 
-Citation Generator
+Strong emphasis on usability and responsible AI
 
-A full-stack NLP-powered tool that automates citation generation from user-provided sources. Built with an emphasis on correctness, clean UX, and extensibility across citation formats.
+⚙️ Currently Working On
 
-Credify.ai
+Building core components of a lightweight relational database engine in Java, including:
 
-A Chrome extension that fact-checks Reddit posts in real time.
+SQL parsing and execution
 
-Injects UI directly into the Reddit DOM
+Query planning and operators
 
-Generates credibility scores and evidence-backed summaries
+Storage and indexing
 
-Built with a strong focus on product usability and responsible AI
+End-to-end execution in a single-user DBMS
 
-What I’ve Been Working On Recently
+This has deepened my understanding of databases, performance, and low-level system design.
 
-I’ve been deep in systems-level Java development, building core components of a lightweight relational database engine from scratch, including:
+📌 Interests
 
-SQL Parsing and Execution
-
-Query Planning and Operators
-
-Storage and Indexing Concepts
-
-End-to-end execution of queries in a single-user DBMS
-
-This work has significantly sharpened my understanding of Databases, Performance, and Low-Level System Design.
+Backend Engineering · Databases · Distributed Systems · Data Infrastructure · Systems Design
