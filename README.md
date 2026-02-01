@@ -5,7 +5,7 @@ My interests lie in Backend Engineering, Databases, and Data-Intensive Systems w
 
 I care about understanding how systems work internally, and building clean, reliable software on top of them.
 
-##⚙️ Currently Working On
+**⚙️ Currently Working On**
 
 Building core components of a lightweight relational database engine in Java, including:
 
