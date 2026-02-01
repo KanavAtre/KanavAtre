@@ -44,7 +44,7 @@ Credibility scores with evidence-backed summaries
 
 Strong emphasis on usability and responsible AI
 
-** ⚙️ Currently Working On **
+**⚙️ Currently Working On**
 
 Building core components of a lightweight relational database engine in Java, including:
 
