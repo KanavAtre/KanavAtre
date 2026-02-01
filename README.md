@@ -5,7 +5,21 @@ My interests lie in Backend Engineering, Databases, and Data-Intensive Systems w
 
 I care about understanding how systems work internally, and building clean, reliable software on top of them.
 
-🛠️ Tech Stack
+##⚙️ Currently Working On##
+
+Building core components of a lightweight relational database engine in Java, including:
+
+SQL parsing and execution
+
+Query planning and operators
+
+Storage and indexing
+
+End-to-end execution in a single-user DBMS
+
+This has deepened my understanding of databases, performance, and low-level system design.
+
+**🛠️ Tech Stack**
 
 Languages
 Python · Java · JavaScript / TypeScript · SQL · MongoDB
@@ -43,20 +57,6 @@ UI injected directly into the Reddit DOM
 Credibility scores with evidence-backed summaries
 
 Strong emphasis on usability and responsible AI
-
-**⚙️ Currently Working On**
-
-Building core components of a lightweight relational database engine in Java, including:
-
-SQL parsing and execution
-
-Query planning and operators
-
-Storage and indexing
-
-End-to-end execution in a single-user DBMS
-
-This has deepened my understanding of databases, performance, and low-level system design.
 
 📌 Interests
 
