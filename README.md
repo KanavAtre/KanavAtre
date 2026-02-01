@@ -1,9 +1,9 @@
 👋 Hi, I’m Kanav
 
-I’m a software engineering–oriented Data Science student who enjoys building systems from the ground up.
+I’m a software engineer & Data Science student who enjoys building systems from the ground up.
 My interests lie in Backend Engineering, Databases, and Data-Intensive Systems with real-world impact.
 
-I care about understanding how systems work internally — then building clean, reliable software on top of them.
+I care about understanding how systems work internally, and building clean, reliable software on top of them.
 
 🛠️ Tech Stack
 
@@ -44,7 +44,7 @@ Credibility scores with evidence-backed summaries
 
 Strong emphasis on usability and responsible AI
 
-⚙️ Currently Working On
+** ⚙️ Currently Working On **
 
 Building core components of a lightweight relational database engine in Java, including:
 
