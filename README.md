@@ -106,6 +106,4 @@
 </p>
 
 ------
-Credit: Template inspired by creative GitHub profile READMEs (customized for KanavAtre)
-
 Last Edited on: 02/20/2026
