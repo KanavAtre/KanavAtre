@@ -2,10 +2,10 @@
 <p align="center">
   <a href="https://kanavatre.com" target="_blank">
       <p align="center">
-        <a href="https://kanavatre.com" target="_blank">
-          <h2>🌐 KanavAtre.com</h2>
-        </a>
-      </p>
+      <a href="https://kanavatre.com" target="_blank">
+        <b>Portfolio → kanavatre.com</b>
+      </a>
+    </p>
   </a>
 </p>
 
