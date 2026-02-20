@@ -61,3 +61,5 @@ Strong emphasis on usability and responsible AI
 📌 Interests
 
 Backend Engineering · Databases · Distributed Systems · Data Infrastructure · Systems Design
+
+[![Kanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanavAtre)](https://github.com/KanavAtre/github-readme-stats)
