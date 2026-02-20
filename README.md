@@ -75,6 +75,13 @@
 
 <h4 align="center">I like shipping projects that are measurable, useful, and cleanly engineered.</h4>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KanavAtre/KanavAtre/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KanavAtre/KanavAtre/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KanavAtre/KanavAtre/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 <h2 align="center"><u>Snake</u></h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/KanavAtre/KanavAtre/output/github-contribution-grid-snake.svg" alt="Snake animation" />
