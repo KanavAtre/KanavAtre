@@ -1,7 +1,11 @@
 <h1 align="center">Hi visitor, I'm Kanav Atre!</h1>
 <p align="center">
   <a href="https://kanavatre.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/KanavAtre/KanavAtre/main/assets/logo.png" alt="Kanav's Portfolio" height="100" width="100">
+      <p align="center">
+        <a href="https://kanavatre.com" target="_blank">
+          <h2>🌐 KanavAtre.com</h2>
+        </a>
+      </p>
   </a>
 </p>
 
