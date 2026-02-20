@@ -62,4 +62,4 @@ Strong emphasis on usability and responsible AI
 
 Backend Engineering · Databases · Distributed Systems · Data Infrastructure · Systems Design
 
-![Snake animation](https://github.com/KanavAtre/KanavAtre/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/KanavAtre/KanavAtre/output/github-contribution-grid-snake.svg)
