@@ -70,8 +70,8 @@
 | --- | --- |
 | _[Credify.ai](https://github.com/KanavAtre/MutationObserve)_ | Multi-agent credibility scoring for online claims using RAG + structured outputs + browser extension UX. |
 | _[BoilerFixIt](https://github.com/Shreyansh-t/Boiler-Fixit)_ | Full-stack maintenance platform (React/Node/Mongo/Stripe) with auth + payments + clean UI. |
-| _[Fully Autonomous Delivery Drone @PURT UAS](https://github.com/KanavAtre/Biomed_Drone)_ | Graph visualization + analytics of connections (D3/React) to map communities and influence. |
-| _[VIP Pedestrian Detection Research] | Purdue VIP research: detection/vision work with practical evaluation and reporting. |
+| _[Fully Autonomous Delivery Drone @PURT UAS](https://github.com/KanavAtre/Biomed_Drone)_ | Real time Landing Decision Pipeline using depth sensing, 3D point clouds, and RANSAC plane fitting|
+| [VIP Pedestrian Detection Research] | Purdue VIP research: detection/vision work with practical evaluation and reporting. |
 
 <h4 align="center">I like shipping projects that are measurable, useful, and cleanly engineered.</h4>
 
