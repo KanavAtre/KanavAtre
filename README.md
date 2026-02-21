@@ -86,11 +86,6 @@
 </picture>
 
 
-<h2 align="center"><u>Snake</u></h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KanavAtre/KanavAtre/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <h2 align="center"><u>My GitHub Stats</u></h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanavAtre&layout=compact&theme=graywhite&langs_count=10" />
