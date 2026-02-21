@@ -1,4 +1,4 @@
-<h1 align="center">Hi visitor, I'm Kanav Atre!</h1>
+<h1 align="center">Hi 👋, I'm Kanav Atre!</h1>
 <p align="center">
   <a href="https://kanavatre.com" target="_blank">
       <p align="center">
