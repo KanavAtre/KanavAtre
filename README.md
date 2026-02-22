@@ -18,7 +18,7 @@
  
  - I build products + data systems: pipelines, dashboards, ML tooling, and full-stack apps.
  
- - Interests: ML systems, data engineering, databases, time-series, and shipping usable tools.
+ - Interests: ML systems, data engineering, databases, backend stuff, and deploying secure applications.
  
  - Outside of code: chess (1500–1600 Chess.com)
 
